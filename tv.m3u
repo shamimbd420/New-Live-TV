@@ -1,0 +1,171 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/GAZI-TV-HD.jpg",GAZI-TV-HD
+http://redforce.live/hls/5008.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/colore-bangla-cinema.jpg",colore-bangla-cinema
+http://redforce.live/hls/5033.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/colorsbangla.jpg",colorsbangla
+http://redforce.live/hls/5047.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/zeebanglahd.jpg",zeebanglahd
+http://redforce.live/hls/5048.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/Sony_Aath.png",Sony_Aath
+http://redforce.live/hls/5049.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/Zee_Bangla_Cinema.jpg",Zee_Bangla_Cinema
+http://redforce.live/hls/5050.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/sunbangla.jpg",sunbangla
+http://redforce.live/hls/5051.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/starjalsha.jpg",starjalsha
+http://redforce.live/hls/5053.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/jalsha_movies.jpg",jalsha_movies
+http://redforce.live/hls/5054.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/T-SPORT-HD.jpg",T-SPORT-HD
+http://redforce.live/hls/5067.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/Jamuna.jpg",Jamuna
+http://redforce.live/hls/4005.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/independent.jpg",independent
+http://redforce.live/hls/4008.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/somoytv.jpg",somoytv
+http://redforce.live/hls/4010.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/channeli.jpg",channeli
+http://redforce.live/hls/4016.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/Maasranga_Television.jpg",Maasranga_Television
+http://redforce.live/hls/4017.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/gb.png",gb
+http://redforce.live/hls/4018.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/enter10bangla.jpg",enter10bangla
+http://redforce.live/hls/4036.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://redforce.live/img/sangitbangla.jpg",sangitbangla
+http://redforce.live/hls/4120.m3u8
+
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/9xm.png",9xm
+http://redforce.live/hls/4122.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/masti.jpg",masti
+http://redforce.live/hls/4124.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/goldmain.jpg",goldmain
+http://redforce.live/hls/4117.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/stargold.jpg",stargold
+http://redforce.live/hls/5028.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/sony-maxhd.jpg",sony-maxhd
+http://redforce.live/hls/5029.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/starplus.jpg",starplus
+http://redforce.live/hls/5030.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/zeetv.png",zeetv
+http://redforce.live/hls/5031.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/zeecinemahd.jpg",zeecinemahd
+http://redforce.live/hls/5032.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/sonyen.png",sonyen
+http://redforce.live/hls/5034.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/colors-tv-hd.jpg",colors-tv-hd
+http://redforce.live/hls/5035.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/colorscineplex.jpg",colorscineplex
+http://redforce.live/hls/5037.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/stargold2hd.png",stargold2hd
+http://redforce.live/hls/5063.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/andpictures-hd.jpg",andpictures-hd
+http://redforce.live/hls/5039.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/stargoldselecthd.png",stargoldselecthd
+http://redforce.live/hls/5058.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://redforce.live/img/&XPLORE.jpg",&XPLORE
+http://redforce.live/hls/5060.m3u8
+
+
+
+
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/starlife.jpg",starlife
+http://redforce.live/hls/5074.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/HBO1.jpg",HBO1
+http://redforce.live/hls/5005.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/mnx-hd.jpg",mnx-hd
+http://redforce.live/hls/5009.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/andprive.png",andprive
+http://redforce.live/hls/5010.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/star-movies-select-hd.png",star-movies-select-hd
+http://redforce.live/hls/5011.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/andflix.jpg",andflix
+http://redforce.live/hls/5014.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/Mn+.jpeg",Mn+
+http://redforce.live/hls/5015.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/ZEE-CAFE-HD.png",ZEE-CAFE-HD
+http://redforce.live/hls/5016.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/movies-now.jpg",movies-now
+http://redforce.live/hls/5018.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/starmovies.jpg",starmovies
+http://redforce.live/hls/5021.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/sonypixhd.jpg",sonypixhd
+http://redforce.live/hls/5022.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/animalplanent.jpg",animalplanent
+http://redforce.live/hls/5025.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/dis.png",dis
+http://redforce.live/hls/5026.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/wild.png",wild
+http://redforce.live/hls/5027.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/romedy.png",romedy
+http://redforce.live/hls/5059.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/comedy-central-hd1.png",comedy-central-hd1
+http://redforce.live/hls/5057.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/COLOR-INFINITY-HD.png",COLOR-INFINITY-HD
+http://redforce.live/hls/5061.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/tlc.jpeg",tlc
+http://redforce.live/hls/5062.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/Nat_Geo_HD.png",Nat_Geo_HD
+http://redforce.live/hls/5036.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/bbcearth.jpg",bbcearth
+http://redforce.live/hls/5038.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://redforce.live/img/travelxphd.jpg",travelxphd
+http://redforce.live/hls/5046.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://redforce.live/img/cn.png",cn
+http://redforce.live/hls/5012.m3u8
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://redforce.live/img/sonyyay.jpg",sonyyay
+http://redforce.live/hls/5023.m3u8
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://redforce.live/img/nick.jpg",nick
+http://redforce.live/hls/5024.m3u8
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://redforce.live/img/sonic.jpg",sonic
+http://redforce.live/hls/5041.m3u8
+
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://redforce.live/img/quraantv.jpg",quraantv
+http://redforce.live/hls/4112.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://redforce.live/img/madani.jpg",madani
+http://redforce.live/hls/4029.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/ptvsports.jpg",ptvsports
+http://redforce.live/hls/5001.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/Watan-HD.jpg",Watan-HD
+http://redforce.live/hls/5002.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/bein-sports-2.webp",bein-sports-2
+http://redforce.live/hls/5003.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/star_sports3.jpg",star_sports3
+http://redforce.live/hls/5019.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/sony-5.png",sony-5
+http://redforce.live/hls/5020.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/Star_Sports_Select_1_HD.jpg",Star_Sports_Select_1_HD
+http://redforce.live/hls/5055.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/sony-1.png",sony-1
+http://redforce.live/hls/5056.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/ster-sport-2hd.png",ster-sport-2hd
+http://redforce.live/hls/5042.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/select2.jpg",select2
+http://redforce.live/hls/5043.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/sony-2.png",sony-2
+http://redforce.live/hls/5044.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/sony-3.png",sony-3
+http://redforce.live/hls/5045.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/bein_sports1.jpg",bein_sports1
+http://redforce.live/hls/5007.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/stersports1hd.jpg",stersports1hd
+http://redforce.live/hls/5052.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/18.png",18
+http://redforce.live/hls/5017.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://redforce.live/img/EUROSPORTS-HD.png",EUROSPORTS-HD
+http://redforce.live/hls/5013.m3u8
